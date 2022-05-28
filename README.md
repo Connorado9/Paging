@@ -1,5 +1,5 @@
 # Paging
-The purpose of this program was to implement a paging strategy that maximizes the performance of the memory access in a set ofpredefined programs. The program includes a simulator that allows the testing of different strategies. A Least Recently Used (LRU), basic, and predictive paging strategy are provided. The simulation environment details the throughput of each strategy after being run.
+The purpose of this program was to implement a paging strategy that maximizes the performance of the memory access in a set of predefined programs. The program includes a simulator that allows the testing of different strategies. A Least Recently Used (LRU), basic, and predictive paging strategy are provided. The simulation environment details the throughput of each strategy after being run.
 
 ---Files---
 Makefile - GNU makefile to build all relevant code
